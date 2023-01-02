@@ -1,4 +1,3 @@
-<img align='left' src='https://schubvirus.dev/bittenicht/was.png' width='30%'/>
 <img src='https://schubvirus.dev/bittenicht/Schubvirus.svg' width='66%'/>
 
 ------------------------------------------------------------------------  
